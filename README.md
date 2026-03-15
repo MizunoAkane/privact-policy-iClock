@@ -13,3 +13,18 @@
 
 联系我们
 如果您对本隐私政策有任何疑问，请通过以下方式留言或私信：https://space.bilibili.com/594122588
+
+
+This Privacy Policy explains how iClock (hereinafter referred to as "this Application") handles your personal information.
+
+Data Collection and Use
+This Application is a software that runs entirely on your local device. We do not collect, store, process, or share any of your personal data, device information, or usage habits. This Application does not require an internet connection, and all your data is stored locally on your device only.
+
+Third-Party Services
+This Application does not integrate any third-party data analytics or advertising SDKs.
+
+Changes to the Policy
+If we decide to change this Privacy Policy, we will update the changes on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, please leave a message or contact us via: https://space.bilibili.com/594122588
